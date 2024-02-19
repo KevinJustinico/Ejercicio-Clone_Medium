@@ -1,0 +1,58 @@
+.content{
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.icon{
+    margin-right: 32px
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+}
+
+.coments{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.code{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.texto{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.article{
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: larger;
+
+}
+.puntos{
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    text-shadow: 10px;
+    font-size: 28px;
+}
+.card{
+    padding-right: 35%;
+    align-items: center;
+}
